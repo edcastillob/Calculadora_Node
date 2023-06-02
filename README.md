@@ -27,3 +27,7 @@ PS C:\Users\Edwar Castillo\Desktop\03.1-bases-Console>
 </ul>
 
 <p>En el directorio "salida " se generan los .txt correspondiente a la base solicitada</p>
+
+<div align= center>
+<img src="https://raw.githubusercontent.com/edcastillob/Calculadora_Node/main/img/Captura.JPG" alt="Calculadora">
+</div>
